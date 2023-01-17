@@ -10,6 +10,7 @@ Um projeto para o aprendizado do Angular, projeto em andamento...
 
 - TypeScript
 - Angular
+- Json Server
 
 ## Rodando localmente
 
@@ -23,7 +24,23 @@ Um projeto para o aprendizado do Angular, projeto em andamento...
   npm install
 ```
 
-Inicie o servidor
+- Entre no diretorio `backend`
+  
+- Instale as dependências
+
+```bash
+  npm install
+```
+
+- Inicie o servidor `backend`
+
+```bash
+  npm start
+```
+
+- Volte para pasta principal do projeto 
+
+- Inicie o servidor Angular
 
 ```bash
   ng serve
