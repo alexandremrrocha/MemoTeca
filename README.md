@@ -1,6 +1,6 @@
 # Memoteca
 
-Um projeto para o aprendizado do Angular, projeto em andamento...
+Uma biblioteca de pensamentos, nelá voce pode guardar trechos de musica, citações de livros, pensamentos e suas melhores ideias, como sempre quis!
 
 ## Stack utilizada
 
