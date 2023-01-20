@@ -25,6 +25,8 @@ Um projeto para o aprendizado do Angular, projeto em andamento...
 ```
 
 - Entre no diretorio `backend`
+
+- Copie o arquivo `db-template.json` e renomeie a copia dele para `db.json`
   
 - Instale as dependências
 
