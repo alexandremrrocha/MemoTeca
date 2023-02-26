@@ -5,12 +5,14 @@ Uma biblioteca de pensamentos, nela voce pode guardar trechos de musica, citaç�
 ## Stack utilizada
 
 - Angular
+- Capacitor
 
 ## Aprendizados
 
 - TypeScript
 - Angular
 - Json Server
+- Capacitor
 
 ## Rodando localmente
 
@@ -47,3 +49,31 @@ Uma biblioteca de pensamentos, nela voce pode guardar trechos de musica, citaç�
 ```bash
   ng serve
 ```
+
+
+## Deploy Android
+
+- Para fazer o deploy desse projeto primeiro faça
+
+```bash
+  ng build
+```
+
+- Copie os arquivos que ele gerar para a pasta `dist` 
+
+- Execute o comando, para verificar e sincronizar o codigo web com o codigo nativo que será gerado
+
+```bash
+  npx cap sync
+```
+
+- Execute o comando para geração do codigo android nativo
+
+```bash
+  npx cap add android
+```
+
+- Entre no Android Studio abra a pasta gerada nele e gere um apk dele
+
+
+
