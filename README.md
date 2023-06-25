@@ -37,7 +37,7 @@ Uma biblioteca de pensamentos, nela voce pode guardar trechos de musica, cita√ß√
 - Inicie o servidor `backend`
 
 ```bash
-  npm start
+  npm run dev
 ```
 
 - Volte para pasta principal do projeto 
